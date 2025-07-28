@@ -1,2 +1,1 @@
-print('bug fix')
-print('a new bug1')
+print('conflict')
